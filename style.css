@@ -1,0 +1,9 @@
+.showcase{
+    background: url('./image/mobi-landing.png') no-repeat;
+    width: 100%;
+    height: 92vh;
+    
+}
+.head{
+    font-weight: bold;
+}
